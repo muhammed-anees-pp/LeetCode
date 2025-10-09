@@ -13,7 +13,9 @@ This file shows the order I solved problems and tracks progress.
 
 ## ✅ Solved Problems
 1. [Two Sum](https://leetcode.com/problems/two-sum/) → [Solution](Easy/0001-two-sum.py)
-2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) → [Solution](Easy/0009-palindrome-number.py)
-3. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) → [Solution](Medium/0002-add-two-numbers.py)
+2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) → [Solution](Easy/1480-running-sum-of-1d-array.py)
+3. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) → [Solution](Easy/0724-find_pivot_index.py)
+4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) → [Solution](Easy/0217-contains_duplicate.py)
+5. [Single Number](https://leetcode.com/problems/single-number/) → [Solution](Easy/0136-single_number.py)
 
 ---

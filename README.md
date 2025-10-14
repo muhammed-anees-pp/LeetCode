@@ -21,6 +21,10 @@ This file shows the order I solved problems and tracks progress.
 7. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) → [Solution](Easy/0035-search_insert_position.py)
 8. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) → [Solution](Easy/0069-sqrt(x).py)
 9. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) → [Solution](Easy/0020-valid_paranthesis.py)
+10. [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) → [Solution](Easy/2016-maximum_diff_bw_increasing_ele.py)
+
+
+
 
 
 

@@ -4,13 +4,38 @@ This repository contains my **LeetCode problem-solving journey**.
 I am practicing problems in order and uploading solutions with clean, structured code.  
 The goal is to **track progress, stay consistent, and build problem-solving skills**.
 
-
-# My LeetCode Journey 📘
-
-This file shows the order I solved problems and tracks progress.
+--
 
 ---
 
+## 🧭 Track Your Progress with Notion
+
+To make progress tracking easier and more interactive, I’ve created a **Notion page** designed to help you organize and review your LeetCode journey using **spaced repetition**.
+
+👉 **Notion Link:** [LeetCode Progress Tracker](https://www.notion.so/Leetcode-29143b0812b280df9359e6fe4ea081b5?source=copy_link)
+
+### 📋 How to Use the Notion Page
+1. **Duplicate the Page:**  
+   Click the “•••” menu at the top-right corner of the Notion page → choose **Duplicate** to copy it into your own workspace.
+
+2. **Add Your Problems:**  
+   List each LeetCode problem you solve (e.g., *“Two Sum (1)”*) in the first column.
+
+3. **Add the Problem Link:**  
+   Paste the LeetCode problem URL next to it for quick access.
+
+4. **Track Dates:**  
+   - Record the **Last Solved Date** whenever you complete a problem.  
+   - Set a **Next Review Date** based on your performance (7–14 days recommended).
+
+5. **Review Progressively:**  
+   Each time you solve a problem **without help**, increase the “Successful Reviews” count.  
+   If you need help, reset it to 0.  
+   Over time, this builds a **strong review cycle** to retain problem-solving skills efficiently.
+
+---
+
+# My LeetCode Journey 📘
 ## ✅ Solved Problems
 1. [Two Sum](https://leetcode.com/problems/two-sum/) → [Solution](Easy/0001-two-sum.py)
 2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) → [Solution](Easy/1480-running-sum-of-1d-array.py)

@@ -4,8 +4,6 @@ This repository contains my **LeetCode problem-solving journey**.
 I am practicing problems in order and uploading solutions with clean, structured code.  
 The goal is to **track progress, stay consistent, and build problem-solving skills**.
 
---
-
 ---
 
 ## 🧭 Track Your Progress with Notion
@@ -36,7 +34,6 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 ---
 
 # My LeetCode Journey 📘
-## ✅ Solved Problems
 1. [Two Sum](https://leetcode.com/problems/two-sum/) → [Solution](Easy/0001-two-sum.py)
 2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) → [Solution](Easy/1480-running-sum-of-1d-array.py)
 3. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) → [Solution](Easy/0724-find_pivot_index.py)

@@ -48,6 +48,8 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 12. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) → [Solution](Easy/0013-roman_to_int.py)
 13. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 14. [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) → [Solution](Easy/3461-check_if_digits_equal.py)
+14. [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) → [Solution](Easy/3461-check_if_digits_equal.py)
+15. [Permutations](https://leetcode.com/problems/permutations/) → [Solution](Medium/0046-permutations.py)
 
 
 

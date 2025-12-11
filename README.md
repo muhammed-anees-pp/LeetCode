@@ -50,6 +50,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 14. [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) → [Solution](Easy/3461-check_if_digits_equal.py)
 14. [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) → [Solution](Easy/3461-check_if_digits_equal.py)
 15. [Permutations](https://leetcode.com/problems/permutations/) → [Solution](Medium/0046-permutations.py)
+16. [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) → [Solution](Easy/2264-largest_3_same_digit.py)
 
 
 

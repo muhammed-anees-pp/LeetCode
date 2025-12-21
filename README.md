@@ -47,11 +47,21 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0011. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) → [Solution](Easy/0069-sqrt(x).py)
 0012. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) → [Solution](Easy/0217-contains_duplicate.py)
 0013. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) → [Solution](Easy/0058-length_of_last_word.py)
+0014. [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) → [Solution](Easy/2778-sum_of_squares_of_special_elements.py)
+0015. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) → [Solution](Easy/0724-find_pivot_index.py)
+0016. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) → [Solution](Easy/0013-roman_to_int.py)
+0017. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) → [Solution](Easy/1662-check_if_two_string_arrays_are_equivalent.py)
+
+
+# Problem: 
+# Link: 
 
 
 
+13. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 
-
+Medium
+15. [Permutations](https://leetcode.com/problems/permutations/) → [Solution](Medium/0046-permutations.py)
 
 
 

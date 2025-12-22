@@ -53,10 +53,6 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0017. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) → [Solution](Easy/1662-check_if_two_string_arrays_are_equivalent.py)
 
 
-# Problem: 
-# Link: 
-
-
 
 13. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 

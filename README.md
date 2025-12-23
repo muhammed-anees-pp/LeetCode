@@ -52,6 +52,9 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0016. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) → [Solution](Easy/0013-roman_to_int.py)
 0017. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) → [Solution](Easy/1662-check_if_two_string_arrays_are_equivalent.py)
 0018. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) → [Solution](Easy/1108-defanging_an_ip_address.py)
+0019. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) → [Solution](Easy/0905-sort_array_by_parity.py)
+
+
 
 0000. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 

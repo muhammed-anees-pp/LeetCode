@@ -56,10 +56,10 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0020. [Distribute Candies](https://leetcode.com/problems/distribute-candies/) → [Solution](Easy/0575-distribute_candies.py)
 
 
-0000. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
+####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 
-Medium
-0000. [Permutations](https://leetcode.com/problems/permutations/) → [Solution](Medium/0046-permutations.py)
+####Medium
+####[Permutations](https://leetcode.com/problems/permutations/) → [Solution](Medium/0046-permutations.py)
 
 
 

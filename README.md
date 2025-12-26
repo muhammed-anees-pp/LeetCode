@@ -55,6 +55,9 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0019. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) → [Solution](Easy/0905-sort_array_by_parity.py)
 0020. [Distribute Candies](https://leetcode.com/problems/distribute-candies/) → [Solution](Easy/0575-distribute_candies.py)
 0021. [Missing Number](https://leetcode.com/problems/missing-number/) → [Solution](Easy/0268-missing_number.py)
+0022. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) → [Solution](Easy/2185-counting_words_with_a_given_prefix.py)
+
+
 
 ####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 

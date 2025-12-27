@@ -59,9 +59,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0023. [Shuffle String](https://leetcode.com/problems/shuffle-string/) → [Solution](Easy/1528-shuffle_string.py)
 
 
-# Problem: 
-# Link: 
-# 
+
 
 ####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
 

@@ -57,7 +57,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0021. [Missing Number](https://leetcode.com/problems/missing-number/) → [Solution](Easy/0268-missing_number.py)
 0022. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) → [Solution](Easy/2185-counting_words_with_a_given_prefix.py)
 0023. [Shuffle String](https://leetcode.com/problems/shuffle-string/) → [Solution](Easy/1528-shuffle_string.py)
-
+0024. [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) → [Solution](Easy/2535-diff_bw_element_sum_and_digit_sum_of_an_array.py)
 
 
 

@@ -60,6 +60,8 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0024. [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) → [Solution](Easy/2535-diff_bw_element_sum_and_digit_sum_of_an_array.py)
 0025. [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) → [Solution](Easy/2176-count_equal_and_divisible_pairs_in_an_array.py)
 0026. [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) → [Solution](Easy/2544-alternating_digit_sum.py)
+0027. [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) → [Solution](Easy/2441-largest_positive_int_that_exists_with_its_negative.py)
+
 
 
 

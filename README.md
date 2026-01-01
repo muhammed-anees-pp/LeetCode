@@ -61,6 +61,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0025. [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) → [Solution](Easy/2176-count_equal_and_divisible_pairs_in_an_array.py)
 0026. [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) → [Solution](Easy/2544-alternating_digit_sum.py)
 0027. [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) → [Solution](Easy/2441-largest_positive_int_that_exists_with_its_negative.py)
+0028. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) → [Solution](Easy/2540-min_common_value.py)
 
 
 

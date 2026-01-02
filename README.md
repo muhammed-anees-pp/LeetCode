@@ -62,6 +62,8 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0026. [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) → [Solution](Easy/2544-alternating_digit_sum.py)
 0027. [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) → [Solution](Easy/2441-largest_positive_int_that_exists_with_its_negative.py)
 0028. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) → [Solution](Easy/2540-min_common_value.py)
+0029. [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) → [Solution](Easy/2154-keep_mult_found_values_by_two.py)
+
 
 
 

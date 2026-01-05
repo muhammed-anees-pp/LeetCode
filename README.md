@@ -65,8 +65,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0029. [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) → [Solution](Easy/2154-keep_mult_found_values_by_two.py)
 0030. [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) → [Solution](Easy/1816-truncate_sentence.py)
 0031. [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) → [Solution](Easy/1979-find_greatest_common_division.py)
-
-
+0032. [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) → [Solution](Easy/2894-divisible_and_non_divisible_diff.py)
 
 
 

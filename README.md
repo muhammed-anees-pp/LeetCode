@@ -67,7 +67,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0031. [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) → [Solution](Easy/1979-find_greatest_common_division.py)
 0032. [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) → [Solution](Easy/2894-divisible_and_non_divisible_diff.py)
 0033. [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) → [Solution](Easy/2351-first_letter_to_appear_twice.py)
-
+0034. [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) → [Solution](Easy/1748-sum_of_unique_elements.py)
 
 
 ####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)

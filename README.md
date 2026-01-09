@@ -69,8 +69,8 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0033. [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) → [Solution](Easy/2351-first_letter_to_appear_twice.py)
 0034. [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) → [Solution](Easy/1748-sum_of_unique_elements.py)
 0035. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) → [Solution](Medium/0167-two_sum_II_sorted.py)
-0034. [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) → [Solution](Easy/2574-left_and_right_sum_diff.py)
-
+0036. [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) → [Solution](Easy/2574-left_and_right_sum_diff.py)
+0037. [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) → [Solution](Easy/2283-check_if_number_has_equal_digit_count_and_digit_value.py)
 
 
 

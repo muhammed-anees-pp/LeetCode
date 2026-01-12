@@ -73,6 +73,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0037. [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) → [Solution](Easy/2283-check_if_number_has_equal_digit_count_and_digit_value.py)
 0038. [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) → [Solution](Easy/2413-smallest_even_multiple.py)
 0039. [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) → [Solution](Easy/3190-find_min_operations_to_make_all_elements_divisible_by_three.py)
+0040. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) → [Solution](Easy/1389-create_target_array_in_the_given_order.py)
 
 
 ####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)

@@ -10,7 +10,7 @@ The goal is to **track progress, stay consistent, and build problem-solving skil
 
 To make progress tracking easier and more interactive, I’ve created a **Notion page** designed to help you organize and review your LeetCode journey using **spaced repetition**.
 
-👉 **Notion Link:** [LeetCode Progress Tracker](https://www.notion.so/Leetcode-29143b0812b280df9359e6fe4ea081b5?source=copy_link)
+👉 **Notion Link:** [LeetCode Progress Tracker](https://torch-clock-7e0.notion.site/Leetcode-29143b0812b280df9359e6fe4ea081b5?source=copy_link)
 
 ### 📋 How to Use the Notion Page
 1. **Duplicate the Page:**  

@@ -75,7 +75,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0039. [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) → [Solution](Easy/3190-find_min_operations_to_make_all_elements_divisible_by_three.py)
 0040. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) → [Solution](Easy/1389-create_target_array_in_the_given_order.py)
 0041. [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) → [Solution](Easy/2974-min_number_game.py)
-
+0042. [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) → [Solution](Easy/3162-find_the_noof_good_pairs-I.py)
 
 
 

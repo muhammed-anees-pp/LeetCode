@@ -76,7 +76,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0040. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) → [Solution](Easy/1389-create_target_array_in_the_given_order.py)
 0041. [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) → [Solution](Easy/2974-min_number_game.py)
 0042. [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) → [Solution](Easy/3162-find_the_noof_good_pairs-I.py)
-
+0043. [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) → [Solution](Easy/2180-count_int_with_even_digit_sum.py)
 
 
 ####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)

@@ -78,10 +78,15 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0042. [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) → [Solution](Easy/3162-find_the_noof_good_pairs-I.py)
 0043. [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) → [Solution](Easy/2180-count_int_with_even_digit_sum.py)
 0044. [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) → [Solution](Easy/2942-find_words_contain_char.py)
+0045. [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) → [Solution](Easy/2144-min_cost_of_buying_candies_with_discount.py)
+
+
+
+
+
 
 
 ####[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) → [Solution](Easy/0021-merge_two_sorted_lists.py)
-
 ####Medium
 ####[Permutations](https://leetcode.com/problems/permutations/) → [Solution](Medium/0046-permutations.py)
 

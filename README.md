@@ -81,7 +81,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0045. [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) → [Solution](Easy/2144-min_cost_of_buying_candies_with_discount.py)
 0046. [Sort the People](https://leetcode.com/problems/sort-the-people/) → [Solution](Easy/2418-sort_the_people.py)
 0047. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) → [Solution](Easy/1512-no_of_good_pairs.py)
-
+0048. [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) → [Solution](Easy/2341-max_no_of_pairs_in_array.py)
 
 
 

@@ -83,6 +83,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0047. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) → [Solution](Easy/1512-no_of_good_pairs.py)
 0048. [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) → [Solution](Easy/2341-max_no_of_pairs_in_array.py)
 0049. [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) → [Solution](Easy/1941-check_if_all_char_have_equal_no_of_occurances.py)
+0050. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) → [Solution](Easy/1207-unique_no_of_occurences.py)
 
 
 

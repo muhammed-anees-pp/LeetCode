@@ -86,7 +86,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0050. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) → [Solution](Easy/1207-unique_no_of_occurences.py)
 0051. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) → [Solution](Easy/0088-merge_sort_array.py)
 0052. [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) → [Solution](Easy/1903-largest_odd_number_in_string.py)
-0053. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) → [Solution](Easy/0844-backspace_string_compare)
+0053. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) → [Solution](Easy/0844-backspace_string_compare.py)
 0054. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) → [Solution](Easy/0083-remove_duplicates_from_sorted_list.py)
 
 

@@ -88,6 +88,8 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0052. [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) → [Solution](Easy/1903-largest_odd_number_in_string.py)
 0053. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) → [Solution](Easy/0844-backspace_string_compare.py)
 0054. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) → [Solution](Easy/0083-remove_duplicates_from_sorted_list.py)
+0055. [Majority Element](https://leetcode.com/problems/majority-element/) → [Solution](Easy/0169-majority_element.py)
+
 
 
 

@@ -91,6 +91,8 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0055. [Majority Element](https://leetcode.com/problems/majority-element/) → [Solution](Easy/0169-majority_element.py)
 0056. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) → [Solution](Easy/0771-jewels_and_stones.py)
 0057. [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) → [Solution](Easy/3069-distribute_elements_into_two_arrays-I.py)
+0058. [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) → [Solution](Easy/3142-check_if_grid_satisfies_conditions.py)
+
 
 
 

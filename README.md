@@ -94,7 +94,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0058. [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) → [Solution](Easy/3142-check_if_grid_satisfies_conditions.py)
 0059. [Happy Number](https://leetcode.com/problems/happy-number/) → [Solution](Easy/0202-happy_number.py)
 0060. [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) → [Solution](Easy/2833-furthest_point_from_origin.py)
-
+0061. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) → [Solution](Medium/0209-minimum_size_subarray_sum.py)
 
 
 

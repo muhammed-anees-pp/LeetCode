@@ -95,7 +95,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0059. [Happy Number](https://leetcode.com/problems/happy-number/) → [Solution](Easy/0202-happy_number.py)
 0060. [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) → [Solution](Easy/2833-furthest_point_from_origin.py)
 0061. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) → [Solution](Medium/0209-minimum_size_subarray_sum.py)
-
+0062. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) → [Solution](Medium/0121-best_time_to_buy_and_sell_stock.py)
 
 
 

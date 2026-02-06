@@ -98,7 +98,7 @@ To make progress tracking easier and more interactive, I’ve created a **Notion
 0062. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) → [Solution](Easy/0121-best_time_to_buy_and_sell_stock.py)
 0063. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) → [Solution](Easy/0125-valid_palindrome.py)
 0064. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) → [Solution](Easy/0206-reverse_linked_list.py)
-
+0065. [Min Stack](https://leetcode.com/problems/min-stack/) → [Solution](Medium/0155-min_stack.py)
 
 
 
